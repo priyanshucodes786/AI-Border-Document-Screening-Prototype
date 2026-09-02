@@ -1,0 +1,26 @@
+# API / Backend
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.5
+
+# Image Processing
+opencv-python==4.10.0.84
+Pillow==11.1.0
+numpy==1.26.4
+scipy==1.15.1
+
+# OCR - Module 1
+paddleocr==2.9.1
+paddlepaddle==3.0.0
+
+# Machine Learning - Module 3
+torch==2.5.1
+torchvision==0.20.1
+
+# Face Verification - Module 4
+insightface==0.7.3
+onnxruntime==1.20.1
+
+# Utilities
+python-dotenv==1.0.1
